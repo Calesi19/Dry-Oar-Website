@@ -1,0 +1,103 @@
+#235315#content {
+    width: 940px;
+    margin: 0 auto;
+  }
+  
+  #banner {
+    width: 100%;
+    height: 236px;
+  }
+  
+  #logo-box {
+    margin-top: 10px;
+    height: 90px;
+  }
+  
+  .logo img {
+    position: relative;
+    border-style: solid;
+  }
+  nav {
+     background-color:#235315;
+    color: white;
+    font-size: 1.2em;
+    margin-top: -25px;
+  }
+  
+  nav a {
+    color: #fcf1ca;
+    font-size: 1.1em;
+    line-height: 3em;
+  }
+  
+  nav ul {
+    display: flex;
+    height: 74px;
+  }
+  
+  li {
+    padding-left: 150px;
+    list-style-type: none;
+  }
+  #top-nav-bar {margin: 0;}
+  
+  #invitation-row {line-height: 25px}
+  h1,h2,h3,h4,h5,h6 {color: #595959;}  
+  h1,h2,h3,h4,h5,h6 {font-family: "Lucida Sans Unicode", "Lucidriffa Grande", sans-serif}
+  h3 {font-size: 27px}
+  p {font-size: 17px}
+  p {color: #595959}
+  nav li {font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif}
+  p {font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif}
+  #content {width: 960px}
+  #content { margin: 0 auto;}
+  #invitation-row {text-align: center}
+  #invitation-row {background-color: #fcf1ca;}
+  #invitation-row-hed {margin: 25px}
+  #footer {background-color: #235315}
+  #footer-text {color: #fcf1ca;}
+  img {max-width: 100%;}     
+  
+  footer {display: flex; padding: 5px}
+  #footer-links {float: right; margin-left: 450px}
+  #footer-text {float: left; margin-left: 5px; margin-top: 25px}
+  html {background-color: #fffcf0;}
+  nav a:hover{background-color: #a7c4a0}
+  
+  a:link {
+    text-decoration: none;
+  }
+  
+  footer {
+    margin-bottom: 0px;
+    flex-flow: row wrap;
+  }
+  
+  #invitation-row {padding: 1em}
+  footer a {color: #fcf1ca;}
+  footer a:hover{background-color: #a7c4a0}
+  
+  .rates {margin-left: 180px;
+   margin-top: 0x;
+    margin-bottom: 0px;
+    padding-bottom: 50px;
+    padding-top: 50px
+  }
+  
+  .rate-pics {background-color: #e2eddf; 
+  }
+  
+  .thumbnail:hover {
+      position:relative;
+      top:-25px;
+      left:-35px;
+      width:650px;
+      height:auto;
+      display:block;
+      z-index:999;
+  }
+  
+  
+  
+  
+  

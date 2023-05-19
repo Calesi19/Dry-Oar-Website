@@ -1,0 +1,110 @@
+#235315#content {
+    width: 940px;
+    margin: 0 auto;
+  }
+  
+  #banner {
+    width: 100%;
+    height: 236px;
+  }
+  
+  #logo-box {
+    margin-top: 10px;
+    height: 90px;
+  }
+  
+  .logo img {
+    position: relative;
+    border-style: solid;
+  }
+  nav {
+     background-color:#235315;
+    color: white;
+    font-size: 1.2em;
+    margin-top: -25px;
+  }
+  
+  nav a {
+    color: #fcf1ca;
+    font-size: 1.1em;
+    line-height: 3em;
+  }
+  
+  nav ul {
+    display: flex;
+    height: 74px;
+  }
+  
+  li {
+    padding-left: 150px;
+    list-style-type: none;
+  }
+  #top-nav-bar {margin: 0;}
+  #top-row {background-color: #fcf1ca;
+  background-image:url("https://cdn.glitch.com/841d5297-9374-4379-b993-ad142855ac56%2Fblur2.jpg?v=1576454109391");}
+  
+  #top-row {line-height: 25px}
+  #bottom-row {background-color: #aed1d4;
+  background-image:url("https://cdn.glitch.com/841d5297-9374-4379-b993-ad142855ac56%2Fblur3.jpg?v=1576454113000");}
+  #bottom-row {line-height: 25px}
+  #invitation-row {line-height: 25px}
+  h1,h2,h3,h4,h5,h6 {color: #595959;}  
+  h1,h2,h3,h4,h5,h6 {font-family: "Lucida Sans Unicode", "Lucidriffa Grande", sans-serif}
+  h3 {font-size: 27px}
+  p {font-size: 17px}
+  p {color: #595959}
+  nav li {font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif}
+  p {font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif}
+  #content {width: 960px}
+  #content { margin: 0 auto;}
+  #invitation-row {text-align: center}
+  #invitation-row {background-color: #fcf1ca;}
+  #invitation-row-hed {margin: 25px}
+  #footer {background-color: #235315}
+  #footer-text {color: #fcf1ca;}
+  .left-col {padding: 1em; width: 48%; align-items: center; margin: 0.5em; flex: 1 0 15em;}
+  .right-col {padding: 1em; width: 48%; align-items: center; margin: 0.5em; flex: 1 0 15em;}
+  #top-row { display: flex; flex-flow: row wrap; align-items: center;}
+  #top-row-pic {margin-top: 30px}
+  #bottom-row { display: flex; flex-flow: row wrap; align-items: center;}
+  img {max-width: 100%;}     
+  #invitation-row-hed {margin-top: 25px}
+  #invitation-row-par {margin-top: 25px}
+  footer {display: flex; padding: 5px}
+  #footer-links {float: right; margin-left: 450px}
+  #footer-text {float: left; margin-left: 5px; margin-top: 25px}
+  html {background-color: #fffcf0;}
+  nav a:hover{background-color: #a7c4a0}
+  
+  a:link {
+    text-decoration: none;
+  }
+  
+  footer {
+    margin-bottom: 0px;
+    flex-flow: row wrap;
+  }
+  
+  #invitation-row {padding: 1em}
+  footer a {color: #fcf1ca;}
+  footer a:hover{background-color: #a7c4a0}
+  
+  
+  
+  
+  
+  #third-row {background-color: #fcf1ca;
+  background-image:url("https://cdn.glitch.com/841d5297-9374-4379-b993-ad142855ac56%2Fblur1.jpg?v=1576454106530");}
+  #third-row {line-height: 25px}
+  #fourth-row {background-color: #aed1d4;
+  background-image:url("https://cdn.glitch.com/841d5297-9374-4379-b993-ad142855ac56%2Fblur5.jpg?v=1576454120864");}
+  #fourth-row {line-height: 25px}
+  #third-row { display: flex; flex-flow: row wrap; align-items: center;}
+  #third-row-pic {margin-top: 30px}
+  .white-text {color: white; font-size: 25px}
+  
+  
+  
+  
+  
+  
